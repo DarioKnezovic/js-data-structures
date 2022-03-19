@@ -61,3 +61,5 @@ myStack.loop();
 //Discord
 //Udemy
 //google
+
+module.exports = Stack;

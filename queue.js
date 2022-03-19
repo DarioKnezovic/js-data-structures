@@ -67,3 +67,5 @@ myQueue.loop();
 //Matt
 //Pavel
 //Samir
+
+module.exports = Queue;
