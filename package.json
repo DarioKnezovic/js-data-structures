@@ -1,0 +1,26 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test:queue": "jest -i queue.test.js",
+    "test:stacks": "jest -i stacks.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarioKnezovic/js-data-structures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarioKnezovic/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/DarioKnezovic/js-data-structures#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
